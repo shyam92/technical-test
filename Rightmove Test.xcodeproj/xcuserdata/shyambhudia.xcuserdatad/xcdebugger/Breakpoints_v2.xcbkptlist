@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0C57B8CE-0C27-4905-9040-A94DC2D93BF2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4F20056-DE65-4ADC-B516-70C7183A719E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rightmove Test/ViewModels/AveragePropertyViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A4F20056-DE65-4ADC-B516-70C7183A719E - d6332e681c7d82cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Rightmove_Test.Properties, Rightmove_Test.APIError&gt;) -&gt; () in Rightmove_Test.AveragePropertyViewModel.(getData in _5E0591F4AA253242CB9B7667A571A6CD)() -&gt; ()"
+                  moduleName = "Rightmove Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shyambhudia/Documents/Apps/Rightmove%20Test/Rightmove%20Test/ViewModels/AveragePropertyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "425">
+               </Location>
+               <Location
+                  uuid = "A4F20056-DE65-4ADC-B516-70C7183A719E - d6332e681c7d82cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Rightmove_Test.Properties, Rightmove_Test.APIError&gt;) -&gt; () in Rightmove_Test.AveragePropertyViewModel.(getData in _5E0591F4AA253242CB9B7667A571A6CD)() -&gt; ()"
+                  moduleName = "Rightmove Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shyambhudia/Documents/Apps/Rightmove%20Test/Rightmove%20Test/ViewModels/AveragePropertyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "452">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BE8A8D9-343C-4FE3-83A1-653D1BA1567B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rightmove TestTests/NetworkManagerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "testValidURLInvalidPropertyFeed()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1BE8A8D9-343C-4FE3-83A1-653D1BA1567B - 47409c1db63fe0bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Rightmove_TestTests.NetworkManagerTests.testValidURLInvalidPropertyFeed() -&gt; ()"
+                  moduleName = "Rightmove TestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shyambhudia/Documents/Apps/Rightmove%20Test/Rightmove%20TestTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "1BE8A8D9-343C-4FE3-83A1-653D1BA1567B - c961096f9307ec1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Rightmove_Test.Properties, Rightmove_Test.APIError&gt;) -&gt; () in Rightmove_TestTests.NetworkManagerTests.testValidURLInvalidPropertyFeed() -&gt; ()"
+                  moduleName = "Rightmove TestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shyambhudia/Documents/Apps/Rightmove%20Test/Rightmove%20TestTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B99EABA0-140A-41C5-B728-A259AFA9B2BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rightmove TestTests/NetworkManagerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "testValidURLInvalidPropertyFeed()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4796BE24-BA4F-45B6-8446-D423599FB30B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rightmove Test/Networking/APIProtocol.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "decodingTask(with:decodingType:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
